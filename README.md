@@ -1,0 +1,6 @@
+# monsterHunterGame
+Personal project for a mini game with JS
+
+YOU CAN ONLY HEAL ONCE PER ROUND
+THERE CAN BE A DRAW IN RARE CASES
+YOU HAVE 1 EXTRA LIFE PER ROUND
